@@ -1,27 +1,7 @@
-# X-App Template for VeBetterDAO 🚀
+# Edu Chain Bite Template for VeBetterDAO 🚀
 
-                                     #######
-                                ################
-                              ####################
-                            ###########   #########
-                           #########      #########
-         #######          #########       #########
-         #########       #########      ##########
-          ##########     ########     ####################
-           ##########   #########  #########################
-             ################### ############################
-              #################  ##########          ########
-                ##############      ###              ########
-                 ############                       #########
-                   ##########                     ##########
-                    ########                    ###########
-                      ###                    ############
-                                         ##############
-                                   #################
-                                  ##############
-                                  #########
 
-Unlock the potential of decentralized application development on Vechain with our X-App template for VeBetterDAO. Designed for the Vechain Thor blockchain, this template integrates cutting-edge technologies such as React, TypeScript, Hardhat, and Express, ensuring a seamless and efficient DApp development experience. 🌟
+Unlock the potential of decentralized application development on Vechain with our EduChain App for VeBetterDAO. Designed for the Vechain Thor blockchain, this template integrates cutting-edge technologies such as React, TypeScript, Hardhat, and Express, ensuring a seamless and efficient DApp development experience. 🌟
 
 ## Requirements
 
